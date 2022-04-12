@@ -22,7 +22,7 @@ The output from `nim project deploy` will resemble the following:
 ```
 > nim project deploy jokes
 Warning: found commands.yaml but no project.yml
-Deploying project '/path/to/projects/my-command-sets/jokes'
+Deploying project '/path/to/demo-projects/jokes'
   to namespace 'your-namespace'
   on host 'https://your-host.nimbella.io'
 Started running ./build.sh in /path/to/demo-projects/jokes/default/joke
